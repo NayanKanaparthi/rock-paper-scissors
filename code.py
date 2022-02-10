@@ -37,3 +37,5 @@ elif a==True:
     print("You Won!")
 else:
     print("You Lost")
+   
+print(f"computer chose {comp}")
